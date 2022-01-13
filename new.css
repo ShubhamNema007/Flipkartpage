@@ -1,0 +1,245 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@200;300&family=Open+Sans&display=swap');*/
+body {
+    background-color: #ffffff;
+}
+.header {
+    width: 1360px;
+background-color: #2874F0;
+}
+img {
+width: 100%;
+}
+.imgflipkart{
+
+max-width: 80px;
+margin-left: 300px;
+
+margin-right: 12px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    font: #2874F0;
+}
+select{
+    border: none;
+    width: 80px;
+    height: 25px;
+    background-color: #2874F0;
+}
+[type=text]{
+    border-radius: 2px;
+    width: 500px;
+    height: 30px;
+    background-image: url(img/search1.png);
+    margin-bottom: 8px;
+    margin-top: 8px;
+    background-position: 460px;
+    background-repeat: no-repeat;
+    background-size: 20px;
+}
+
+.imgcart{
+    max-width: 35px;
+    height: 35px;
+    margin-left: 100px;
+    margin-right: 10px;
+   
+   
+}
+#time{
+    font-size: 15px;
+    
+}
+.section1{
+    background-color: #f0f0f0;
+    margin-bottom: 5px;
+    width: 1300px;
+    margin-left: 28px; 
+}
+.section2{
+    background-color: #f0f0f0;   
+    margin-bottom: 5px;
+    width: 1300px;
+    margin-left: 28px;   
+}
+.section3
+{
+    background-color: #f0f0f0;
+    margin-bottom: 5px;
+    width: 1300px;
+    margin-left: 28px;  
+}
+
+p{
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 70px;
+    
+}
+.p0
+{
+    font-size: 15px;
+        
+    font-family: 'Roboto', sans-serif;
+    margin-left: 145px;
+}
+.p1{
+         font-size: 15px;
+        font-family: 'Roboto', sans-serif;
+        margin-left: 118px;
+}
+.p2{
+   
+        font-size: 15px;
+        
+        font-family: 'Roboto', sans-serif;
+        margin-left: 30px;
+}
+.p3{
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 145px;
+}
+.p4{
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 130px;
+}
+.p5{
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 75px;
+}
+
+.h3{
+    margin-left: 100px;
+}
+.topoffer{
+    width: 70px;
+    margin-left: 135px;
+
+}
+.grocery{
+    width: 70px;
+    margin-left: 60px;
+
+}
+.mobile{
+    width: 70px;
+    margin-left: 60px;
+
+}
+
+.fashion{
+    width: 70px;
+    margin-left: 60px;
+
+}
+
+.electronics{
+    width: 70px;
+    margin-left: 75px;
+
+}
+
+.home{
+    width: 70px;
+    margin-left: 50px;
+}
+
+.appliances{
+    width: 70px;
+    margin-left: 70px;
+}
+
+.travel{
+    width: 70px;
+    margin-left: 50px;
+}
+.beauty{
+    width: 70px;
+    margin-left: 55px;
+}
+.watch{
+    width: 100px;
+    
+    margin-left: 135px;
+}
+.tample{
+    width: 148px;
+    
+    margin-left: 15px;
+}
+.case{
+    width: 147px;
+    
+    margin-left: 25px;
+}
+.homedecor{
+    width: 149px;
+    
+    margin-left: 30px;
+}
+.flying
+{
+    width: 124px;
+    margin-left: 30px;
+}
+.LavaA1500{
+    width: 62px;
+    
+    margin-left: 40px;
+}
+.LavaA1500{
+    width: 62px;
+    
+    margin-left: 40px;
+}
+.furniture{
+    width: 120px;
+  
+}
+.harmonium{
+    width: 100px;
+    
+    margin-left: 135px;
+}
+.flute{
+    width: 63px;
+    
+    margin-left: 125px;
+}
+
+.guitar{
+    width: 100px;
+    
+    margin-left: 70px;
+}
+.accessories{
+    width: 100px;
+    
+    margin-left: 100px;
+}
+.stand{
+    width: 40px;
+    
+    margin-left: 135px;
+}
+.guitar2{
+    width: 100px;
+    
+    margin-left: 70px;
+}
+.zoom:hover {
+    
+        -ms-transform: scale(1.2); 
+        -webkit-transform: scale(1.2); 
+        transform: scale(1.2); 
+      
+  }
+ 
+
+
+
